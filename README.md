@@ -1,3 +1,13 @@
+# React Blog Plosts
+
+Simple app to display re-usable blog post components.
+
+Sample:
+
+![Sample Blog Post](./assets/sample.PNG)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
